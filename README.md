@@ -1,4 +1,6 @@
-[Homework #1 - Blackjack](http://foureyes.github.io/csci-ua.0480-fall2014-002/assignments.html#hw01)
+[Homework #1 - Blackjack](http://foureyes.github.io/csci-ua.0480-fall2014-002/assignments.html#hw01) 
+
+Applied Internet Technology w/ Joseph Versoza
 
 A commandline player Blackjack game with 2 players - the user and the computer.
 Written and node.js and uses a synchronous prompt library to gather input.
